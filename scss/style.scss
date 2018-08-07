@@ -82,3 +82,10 @@ body {
     line-height: 1.3;
   }
 }
+.contact {
+  color: #bf8484;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
